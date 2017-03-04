@@ -1,1 +1,1 @@
-This is a custom Forge branch which I use for my modpack dev environment. It's named after Tough As Nails, but may include patches unrelated to that mod.
+This is a custom Forge branch based on the 1.10.x branch which I use for my modpack dev environment. It's named after Tough As Nails, but may include patches unrelated to that mod. Any improvements to Forge will also be pushed to the 1.10.x branch.
