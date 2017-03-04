@@ -43,7 +43,7 @@
      public Biome func_180494_b(final BlockPos p_180494_1_)
      {
 +        return this.field_73011_w.getBiomeForCoords(p_180494_1_);
-+    }
++    } public Biome getBiomeGenForCoords(final BlockPos pos) { return func_180494_b(pos); }
 +
 +    public Biome getBiomeForCoordsBody(final BlockPos p_180494_1_)
 +    {
